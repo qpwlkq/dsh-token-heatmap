@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Token heatmap">
+  <rect width="180" height="180" rx="38" fill="#0d1117"/>
+  <g>
+    <rect x="25" y="25" width="22" height="22" rx="5" fill="#0e4429"/>
+    <rect x="52" y="25" width="22" height="22" rx="5" fill="#006d32"/>
+    <rect x="79" y="25" width="22" height="22" rx="5" fill="#161b22"/>
+    <rect x="106" y="25" width="22" height="22" rx="5" fill="#26a641"/>
+    <rect x="133" y="25" width="22" height="22" rx="5" fill="#0e4429"/>
+
+    <rect x="25" y="52" width="22" height="22" rx="5" fill="#26a641"/>
+    <rect x="52" y="52" width="22" height="22" rx="5" fill="#161b22"/>
+    <rect x="79" y="52" width="22" height="22" rx="5" fill="#0e4429"/>
+    <rect x="106" y="52" width="22" height="22" rx="5" fill="#39d353"/>
+    <rect x="133" y="52" width="22" height="22" rx="5" fill="#006d32"/>
+
+    <rect x="25" y="79" width="22" height="22" rx="5" fill="#161b22"/>
+    <rect x="52" y="79" width="22" height="22" rx="5" fill="#39d353"/>
+    <rect x="79" y="79" width="22" height="22" rx="5" fill="#26a641"/>
+    <rect x="106" y="79" width="22" height="22" rx="5" fill="#006d32"/>
+    <rect x="133" y="79" width="22" height="22" rx="5" fill="#161b22"/>
+
+    <rect x="25" y="106" width="22" height="22" rx="5" fill="#006d32"/>
+    <rect x="52" y="106" width="22" height="22" rx="5" fill="#0e4429"/>
+    <rect x="79" y="106" width="22" height="22" rx="5" fill="#161b22"/>
+    <rect x="106" y="106" width="22" height="22" rx="5" fill="#26a641"/>
+    <rect x="133" y="106" width="22" height="22" rx="5" fill="#39d353"/>
+
+    <rect x="25" y="133" width="22" height="22" rx="5" fill="#161b22"/>
+    <rect x="52" y="133" width="22" height="22" rx="5" fill="#0e4429"/>
+    <rect x="79" y="133" width="22" height="22" rx="5" fill="#006d32"/>
+    <rect x="106" y="133" width="22" height="22" rx="5" fill="#161b22"/>
+    <rect x="133" y="133" width="22" height="22" rx="5" fill="#0e4429"/>
+  </g>
+</svg>
