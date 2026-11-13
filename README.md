@@ -8,6 +8,10 @@ GitHub-style heatmap of your DeepSeek Harness token usage, written as a standalo
 
 Most usage plugins draw the heatmap inside DSH. This one writes the SVG and a JSON ledger to disk, so a scheduled job can publish them to GitHub — your profile keeps updating while the app is closed.
 
+## Requirements
+
+DSH 0.2.1-rc.2 or newer (tested on 0.2.1-rc.2) and Node 22.19+.
+
 ## Install
 
 From the market or npm:
