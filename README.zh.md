@@ -95,6 +95,8 @@ node src/cli.js render --from docs/token-usage.json --out docs   # 不扫描，�
 | `outputDir` | `$DSH_HOME/token-heatmap` | 三个文件的输出目录，不存在时自动创建。 |
 | `timeZone` | 系统时区 | 用来归日的 IANA 名称；非法名称会让命令失败。 |
 | `weeks` | `53` | 周列数，4–104。 |
+| `autoUpdate` | `false` | 启动 5 秒后渲染一次，之后按下面的间隔重复。内容未变化的文件不会被重写。 |
+| `autoUpdateIntervalHours` | `6` | 自动渲染的间隔小时数，1–168。 |
 
 ## 隐私
 

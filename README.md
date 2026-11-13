@@ -95,6 +95,8 @@ Useful flags: `--home <dir>`, `--tz <zone>`, `--end YYYY-MM-DD`, `--weeks <n>`, 
 | `outputDir` | `$DSH_HOME/token-heatmap` | Directory the three files are written to. Created when missing. |
 | `timeZone` | system zone | IANA name used to assign a sample to a calendar day. Invalid names fail the command. |
 | `weeks` | `53` | Week columns, 4–104. |
+| `autoUpdate` | `false` | Render five seconds after load and then on the interval below. Files whose bytes did not change are not rewritten. |
+| `autoUpdateIntervalHours` | `6` | Hours between automatic renders, 1–168. |
 
 ## Privacy
 
